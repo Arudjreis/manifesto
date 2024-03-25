@@ -38,3 +38,5 @@ https://www.devsecops.org/
 - **24x7 Proactive Security Monitoring** over Reacting after being Informed of an Incident
 - **Shared Threat Intelligence** over Keeping Info to Ourselves
 - **Compliance Operations** over Clipboards & Checklists
+
+#### Content from the GRC Engineering podcast
